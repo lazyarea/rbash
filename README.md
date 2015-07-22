@@ -1,0 +1,2 @@
+# ssh limited commands.
+# rbash
